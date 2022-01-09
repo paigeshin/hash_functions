@@ -3,9 +3,6 @@
 ### Hashing Functions
 
 Hashing functions are functions that map input data of some arbitrary size to `fixed-size` output values. 
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e758f0db-42e8-433e-8dda-57cc803fd5bf/Untitled.png)
-
 ⇒ Same character length  
 
 ### Cryptographic hash functions
